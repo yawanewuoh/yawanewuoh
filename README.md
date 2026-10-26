@@ -15,8 +15,8 @@ I enjoy understanding how applications work, identifying security weaknesses, an
 * **Cloud Security:** AWS security, IAM, network security, cloud configuration review
 * **DevSecOps:** SAST, SCA, secret detection, container security, IaC scanning, security gates
 * **Security Engineering:** Threat modeling, security architecture, vulnerability remediation
-* **Programming:** Python, Django, Go, Bash
-* **Security Tools:** Semgrep, Bandit, Trivy, Gitleaks, Checkov, Nmap, WPScan
+* **Programming:** Python, Bash
+* **Security Tools:** Burp suite, Postman, Semgrep, Bandit, Trivy, Gitleaks, Checkov, Nmap, Github Actions
 * **Infrastructure:** Terraform, Cloud Formation, Docker, GitHub Actions
 
 ## 🛠️ Current Focus
