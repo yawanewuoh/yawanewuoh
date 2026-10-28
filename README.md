@@ -32,6 +32,7 @@ I am particularly interested in how security can be integrated into development 
 * AWS Certified Cloud Practitioner
 * Certified APISec Practitioner
 * Certified Associate Penetration Tester
+* Certified Multi-Cloud Red Teaming Analyst
 
 ## 📫 Connect With Me
 
